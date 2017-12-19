@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/createXml.html</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/CloudServiceProvider.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/MainServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/CloudServiceConsumer.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/outputFiles/offerConsumer.xml</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/createCloudConsumer.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/myReceiver.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/ContactProvidersAgent.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/introPage.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/ontology/CloudMarketOntology.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/interfaces/CloudServicex.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/SecureOfferTest.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/ProviderGateway.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/CreateSecureOfferXML.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/Offer.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/EntryPointJade.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/CreateSecureOffer.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/CreateSecureOffer.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/ProviderGatewayServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/CreateOfferXML.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/ShowProvidersServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/CloudMarketVocabulary.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/showProviders.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/GatewayServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/ConsumerAgent.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/ProviderAgent.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/MonAgent.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/CreateConsumer.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/index.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/XmlServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/ContactProvidersServlet.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/createCloudProvider.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/SecureOfferNotification.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/servlet/GenerateXMLFile.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/agents/MPCAgent.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/SecureOffer.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/src/java/bean/MyService.java</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/outputFiles/offer.xml</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/providerRegistration.jsp</file>
+            <file>file:/C:/Users/couli/Documents/NetBeansProjects/Projet_S5/web/index.html</file>
+        </group>
+    </open-files>
+</project-private>
